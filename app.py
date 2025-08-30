@@ -25,15 +25,6 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed"
 )
-st.markdown("""
-<style>
-    .stApp {
-        background-color: #0E1117;
-        color: #FAFAFA;
-    }
-</style>
-""", unsafe_allow_html=True)
-
 
 # Custom CSS for dreamy interface
 def load_css():
