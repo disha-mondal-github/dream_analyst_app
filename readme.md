@@ -66,4 +66,4 @@
 
 ## Deployment
 
-This app is deployed on [Streamlit Community Cloud](https://streamlit.io/cloud)
+View live: [Live Link](https://dreamanalyzer.streamlit.app/)
